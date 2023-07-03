@@ -3,3 +3,4 @@
 *.fx  -linguist-detectable
 *.hlsl -linguist-detectable
 *.cso -linguist-detectable
+*.h -linguist-detectable
