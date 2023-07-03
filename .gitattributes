@@ -1,3 +1,4 @@
 *.mat -linguist-detectable
 *.shader  -linguist-detectable
 *.fx  -linguist-detectable
+*.hlsl -linguist-detectable
