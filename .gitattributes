@@ -2,3 +2,4 @@
 *.shader  -linguist-detectable
 *.fx  -linguist-detectable
 *.hlsl -linguist-detectable
+*.cso -linguist-detectable
